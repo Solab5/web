@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Morris Twinomugisha"
+  site-url: https://solab5.github.io/web/
   twitter-card: True
   open-graph: True
   navbar:

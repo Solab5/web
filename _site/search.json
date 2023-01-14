@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "The Truth about Deep Learning",
     "section": "",
-    "text": "Hello, I’m Morris Twinomugisha . I’m a machine learning engineer who loves building data-science and developer tools 👷🏼‍♂️. I’’m as well a stint in management consulting."
+    "text": "Awesome deep learning\nYeah, I mean it “Awesome!”. Deep learning is the most awesome, exciting, and interesting stuff I feel every data scientist should brag about. When I started my data science journey, I thought Learning basic machine learning was all until I heard about things like neural networks, NLP, Computer vision, and so forth. I was so eager to learn how deep learning works. Along the journey, I realized every business or institution needs artificial intelligence in all their support systems other than staying in the comfort zone of traditional approaches to problem-solving and innovation.\nHowever, getting started can be hectic and overwhelming since resources are all over the web, and getting the right resources can be difficult unless you have someone already practicing it to guide you, else you can waste a lot of time without getting started.\nYou can imagine what I went through to get started. If you are passionate about deep learning and don’t know where to start, or maybe you’ve started but feel you aren’t understanding anything from some random YouTube videos or resources. This short article is meant for you. Allow me to share with you a few of the facts and resources you need to know about deep learning maybe you could consider making a decision you will never regret today. Deep learning has proved to be the best machine learning technique in different areas all over the world including areas like Natural Language Processing (NLP), Computer Vision, Medicine, Biology, Image generation/enhancement, Recommendation systems, Playing games, Robotics, Other applications – financial and logistical forecasting; text-to-speech; much more.\nMany experts will say that to get started with deep learning, you need a lot of math, lots of data, lots of expensive computers, or maybe a Ph.D. Trust me anyone irrespective of any field can practice deep learning. As long as you have an internet connection, you can use many online platforms to run deep learning codes on any computer. A commonly used one is a google Collab notebook. For math, simple high school math is sufficient for anyone to get started. The required basic Linear algebra and calculus can be understood along the way.\nIf you’ve done some basic machine learning before, the approach to deep learning is almost the same. This however doesn’t imply that deep learning is only for those that have done machine learning before, I have seen experts that have progressed with deep learning minus prior machine learning experience. A critique of basic machine learning is that it mainly involves dealing with quantitative data, unlike most deep learning problems.\nDeep learning problems are mostly texts from the web, sound, pictures, and videos among others thus there is always a need to train models that can enable transforming input data into numeric. This is because computers can only understand numbers.\nAll these applications stipulate why every business or institution needs artificial intelligence in all their support systems other than staying in the comfort zone of traditional approaches to problem-solving and innovation. If this has motivated you, you can check on the following resources which I believe can be a very mounting stone for anyone that would like to embark on a new journey of deep learning.\n\nlink to deep learning for coders(by Jeremy Howard and Sylvain Gugger)\nlink to MIT course for deep learning(MIT)\nLink to Coursera deep learning course(by Andrew Ng)\n\n\n\n\nimage"
   },
   {
     "objectID": "index.html",
@@ -12,40 +12,5 @@
     "title": "Morris Twinomugisha",
     "section": "",
     "text": "Check out on my the new blogs and news"
-  },
-  {
-    "objectID": "Publication.html",
-    "href": "Publication.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Early faulty detection in air quality sensors is of increasing importance in ensuring reliable and accurate air quality readings. These sensors play a critical role in monitoring the pollution levels in the atmosphere however, due to their exposure to harsh weather, it’s natural that they will face wear and may require periodical servicing. The devices are rarely monitored in most cases, particularly in Uganda. The objective of this research is to build a model for the early detection of faulty sensors for replacement and repair. Using the unsupervised learning approaches in particular K-means and PCA; we train a predictive model and later evaluate it for accuracy using a test dataset. From the cluster analysis, the research identified 3 clusters that are; the health state cluster, nearing fault state cluster, and the faulty state cluster. The research discovered that there is no significant difference in adopting PCA as a preprocessing step in using the K-means algorithm. The research further recommended other clustering methods to be used to compare the accuracy score. It also recommended using more attributes for PCA to be effective.\nDownload paper on Makerere University Dissertation repository here or research gate here"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\nMakerere University, Kampala | UGANDA Bachelors Degree in Statistics | Aug 2019 - July 2022\nSt Mary’s College Rushoroza | Kabale, UG Uganda Advanced Certificate of Education | Jan 2017 - Nov 2018"
-  },
-  {
-    "objectID": "about.html#trainings",
-    "href": "about.html#trainings",
-    "title": "About",
-    "section": "Trainings",
-    "text": "Trainings\nPractical Deep Learning for coders | Fast.ai Applied DataScience | WorldQuant University"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "Experience",
-    "text": "Experience\nDeep Conclusions | Data Scientist | November 2022 - present\nSolab Associates | Data Analyst - Internship |"
   }
 ]
