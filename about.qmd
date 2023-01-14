@@ -1,0 +1,36 @@
+---
+title: "About"
+image: about.jpg
+about:
+  template: trestles 
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/aboutScienceee 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/twinomugisha-morris-9a6138188/
+    - icon: github
+      text: Github
+      href: https://github.com/Solab5
+
+---
+Hello, I’m Morris Twinomugisha . I’m a machine learning engineer who loves building data-science and developer tools 👷🏼‍♂️. I’'m as well a stint in management consulting.
+
+## Education
+
+Makerere University, Kampala | UGANDA
+Bachelors Degree in Statistics | Aug 2019 - July 2022
+
+St Mary's College Rushoroza | Kabale, UG
+Uganda Advanced Certificate of Education | Jan 2017 - Nov 2018
+
+## Trainings
+Practical Deep Learning for coders | Fast.ai
+Applied DataScience | WorldQuant University
+
+## Experience
+
+Deep Conclusions | Data Scientist | November 2022 - present
+
+Solab Associates | Data Analyst - Internship | 

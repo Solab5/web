@@ -1,0 +1,15 @@
+---
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default 
+  fields: [image, date, title, author, reading-time]
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed: true
+page-layout: full
+title-block-banner: true
+---
+## Welcome to my site...
+Check out on my the new blogs and news

@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Morris Twinomugisha"
+  twitter-card: True
+  open-graph: True
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+      - blog.qmd
+
+      - Publication.qmd
+    right:
+      - icon: github
+      - href: https://github.com/Solab5
+      - icon: twitter
+      - href: https://twitteer.com/aboutScience
+format:
+  html:
+    theme: 
+        light: cosmo 
+        dark: darkly
+    css: styles.css
+    toc: true
+
+
+

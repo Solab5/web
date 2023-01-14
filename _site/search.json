@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello, I’m Morris Twinomugisha . I’m a machine learning engineer who loves building data-science and developer tools 👷🏼‍♂️. I’’m as well a stint in management consulting."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Morris Twinomugisha",
+    "section": "",
+    "text": "Check out on my the new blogs and news"
+  },
+  {
+    "objectID": "Publication.html",
+    "href": "Publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Early faulty detection in air quality sensors is of increasing importance in ensuring reliable and accurate air quality readings. These sensors play a critical role in monitoring the pollution levels in the atmosphere however, due to their exposure to harsh weather, it’s natural that they will face wear and may require periodical servicing. The devices are rarely monitored in most cases, particularly in Uganda. The objective of this research is to build a model for the early detection of faulty sensors for replacement and repair. Using the unsupervised learning approaches in particular K-means and PCA; we train a predictive model and later evaluate it for accuracy using a test dataset. From the cluster analysis, the research identified 3 clusters that are; the health state cluster, nearing fault state cluster, and the faulty state cluster. The research discovered that there is no significant difference in adopting PCA as a preprocessing step in using the K-means algorithm. The research further recommended other clustering methods to be used to compare the accuracy score. It also recommended using more attributes for PCA to be effective.\nDownload paper on Makerere University Dissertation repository here or research gate here"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nMakerere University, Kampala | UGANDA Bachelors Degree in Statistics | Aug 2019 - July 2022\nSt Mary’s College Rushoroza | Kabale, UG Uganda Advanced Certificate of Education | Jan 2017 - Nov 2018"
+  },
+  {
+    "objectID": "about.html#trainings",
+    "href": "about.html#trainings",
+    "title": "About",
+    "section": "Trainings",
+    "text": "Trainings\nPractical Deep Learning for coders | Fast.ai Applied DataScience | WorldQuant University"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nDeep Conclusions | Data Scientist | November 2022 - present\nSolab Associates | Data Analyst - Internship |"
+  }
+]
