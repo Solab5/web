@@ -4,18 +4,18 @@ project:
 website:
   title: "Morris Twinomugisha"
   site-url: https://solab5.github.io/web/
+  margin-header: subscribe.html
   twitter-card: True
   open-graph: True
   navbar:
     background: primary
     left:
       - href: index.qmd
-        text: Home
+        text: Blog 
       - about.qmd
 
-      - blog.qmd
-
       - Publication.qmd
+
     right:
       - icon: github
       - href: https://github.com/Solab5
